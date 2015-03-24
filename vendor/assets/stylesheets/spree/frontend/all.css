@@ -13,3 +13,8 @@
 nav #main-nav-bar{
 	border-bottom: none !important;
 }
+
+figure#logo img{
+	height: 45px;
+	padding-top: 15px;
+}
