@@ -9,3 +9,7 @@
  *= require_tree .
  *= require spree/fancy
 */
+
+nav #main-nav-bar{
+	border-bottom: none !important;
+}
